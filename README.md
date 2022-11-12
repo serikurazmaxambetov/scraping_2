@@ -1,2 +1,3 @@
-# scraping_2
-Scraping from bvbalyans.kz
+# Scraping_2
+Задача:
+Перейти по всем каталогам и собрать информаций товаров, и разложить по csv
